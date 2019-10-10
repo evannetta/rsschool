@@ -1,13 +1,16 @@
 # Anna Yevstihnieieva
+
 ## Contact Info
 **Address**: Dnipro, Ukraine
 **Phone**: +38 063 292 60 21 
 **E-mail**: evstigneeva.anna@gmail.com 
 **skype**: evannetta 
 **telegram**: evannetta 
+
 ## Professional objective
 I would like to obtain a position where I would be able to use all my skills, education and experience for
 benefits of your company. Moreover, it will be great if I gain new skills and experience.
+
 ## Qualifications and Skills
   * Good theoretical and practical C/C++11/14 knowledge
   * Good knowledge of algorithms and data structures, OOP programming 
@@ -18,6 +21,7 @@ benefits of your company. Moreover, it will be great if I gain new skills and ex
   * Strong ability to learn and remember new information quickly
   * Self-motivated and enthusiastic
   * Communicate well with a wide range of personalities
+  
 ## Experience
   * University teaching assistant at National Mining University of Ukraine.
       Responsibilities: preparing and delivering lectures on "Programming in C/C++",
@@ -26,10 +30,12 @@ benefits of your company. Moreover, it will be great if I gain new skills and ex
       programming with C/C++ and tasks for course’s projects for students, grading students.
   * Improving my skills by [codewars.com](https://www.codewars.com/users/evannetta) 
   * Front-end online course by Epam
+  
 ## Education
   * National Mining University of Ukraine - Specialist Degree Diploma
       Major: Control and automation systems
       Qualification: System engineer
       Graduated with honor
+      
 ## English
   **Intermediate** level of written and spoken English (IELTS 5.5 (overall band score))
