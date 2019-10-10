@@ -1,11 +1,11 @@
 # Anna Yevstihnieieva
 
 ## Contact Info
-**Address**: Dnipro, Ukraine
-**Phone**: +38 063 292 60 21 
-**E-mail**: evstigneeva.anna@gmail.com 
-**skype**: evannetta 
-**telegram**: evannetta 
+**Address**: Dnipro, Ukraine </br>
+**Phone**: +38 063 292 60 21 </br>
+**E-mail**: evstigneeva.anna@gmail.com </br>
+**skype**: evannetta </br>
+**telegram**: evannetta </br>
 
 ## Professional objective
 I would like to obtain a position where I would be able to use all my skills, education and experience for
@@ -32,9 +32,9 @@ benefits of your company. Moreover, it will be great if I gain new skills and ex
   * Front-end online course by Epam
   
 ## Education
-  * National Mining University of Ukraine - Specialist Degree Diploma
-      Major: Control and automation systems
-      Qualification: System engineer
+  * National Mining University of Ukraine - Specialist Degree Diploma </br>
+      Major: Control and automation systems </br>
+      Qualification: System engineer </br>
       Graduated with honor
       
 ## English
