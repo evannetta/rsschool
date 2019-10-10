@@ -1,1 +1,1 @@
-# [rsschool](https://evannetta.github.io/rsschool-cv/cv )
+# [rsschool](https://evannetta.github.io/rsschool/cv )
